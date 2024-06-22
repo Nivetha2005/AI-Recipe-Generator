@@ -46,12 +46,9 @@ Welcome to the AI Recipe Generator! This project leverages advanced machine lear
 
 - **app.py**: Main code for the AI Recipe Generator.
 - **data/**: Data files and datasets.
-- **models/**: Trained ML models and preprocessing scripts.
+- **scraper/**: contain webscraper code.
 - **static/**: Assets like images and CSS files.
 
-### Contributing
-
-Contributions to enhance the AI Recipe Generator are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### License
 
